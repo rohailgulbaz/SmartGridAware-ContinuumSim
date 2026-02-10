@@ -2,9 +2,9 @@
 
 This repository contains the simulation code for a research study on a Smart Grid-Aware Edge-Cloud Continuum model. The simulation is designed to reflect the complex nature of the continuum environment and its associated stakeholders. The work demonstrates how this model can be applied through a series of experiments.
 
-> 📘 This work is based on the research paper:
+### 📘 Associated Research Paper
 
-**GreenContinuum: A Formal Model of a Smart Grid-Aware Edge-Cloud Continuum for Carbon and Energy Management**__
+***GreenContinuum: A Formal Model of a Smart Grid-Aware Edge-Cloud Continuum for Carbon and Energy Management***
 
 ## 📂 Project Structure
 
